@@ -1,3 +1,3 @@
 # First-Web
 This is a try of my first web
-![imagen poster](img/poster1.jpg)
+![imagen poster](poster1.jpg)
